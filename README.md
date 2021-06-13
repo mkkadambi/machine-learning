@@ -1,4 +1,7 @@
 # This is my journey into ML/AI/ Computer-Vision
+# Feel free to use my code, but please do give me some credit by mentioning the source. A little credit might go a long way
+
+	13 Jun 2021: Uploaded code for NLP Sentiment analysis using LR, LDA and Naiive Bayes
 
 	10 Jun 2021: Uploaded code for ResNet using Tensorflow 2.5.x. Model was trained for 50 and 100 epochs for classification of images into 5 categories
 
